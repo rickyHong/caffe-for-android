@@ -4,7 +4,7 @@ Caffe-Android-Lib
 Porting [caffe](https://github.com/BVLC/caffe) to android platform
 
 ### Support
-* Up-to-date caffe ([5592e59](https://github.com/BVLC/caffe/commit/5592e59fbfc4945bfbfcdd1181aa9fd734d80b33))
+* Up-to-date caffe ([74cc497](https://github.com/BVLC/caffe/commit/74cc4970c8f1b42056c8e36dc9944234ad663a16))
 * CPU only
 * Without support for some IO libs (leveldb and hdf5)
 
